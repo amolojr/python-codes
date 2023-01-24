@@ -1,0 +1,5 @@
+#program to find area of circle using radius
+r=float(input("radius:"))
+unit=input("cm:")
+area=((22/7)*(r*R))
+print=("Area of circle is :",area,unit+"2")
