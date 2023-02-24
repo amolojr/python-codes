@@ -1,5 +1,0 @@
-#python program to prompt user to enter radius of circle
-def area(X):
-    a=3.142*(X^2)
-    print("The area is",a)
-name=int(input("enter radius:"))
